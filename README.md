@@ -1,9 +1,8 @@
 ### Hi, i am Luan
 
 - :man_astronaut: I have an addiction to Outer Wilds
-- 🔭 Studying Java by entry 21
-- 🌱 Studying C
-
+- 🔭 i'm currently learning Java and C
+- :mailbox_with_no_mail: How to reach me: figueredoluan26@gmail.com
 
 <p align="left">
     <img height="400cm" src=https://c.tenor.com/v5lxzTqe79AAAAAd/outer-wilds.gif). 
@@ -12,7 +11,8 @@
   <a href="https://github.com/luanfigueredodesousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanfigueredodesousa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanfigueredodesousa&layout=compact&langs_count=7&theme=dark"/>
-</div>
+      </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
