@@ -1,7 +1,9 @@
 ### Hi, i am Luan
 
-- 🔭 Estudando Java pelo entra 21
-- 🌱 Estudando C
+- :man_astronaut: I have an addiction to Outer Wilds
+- 🔭 Studying Java by entry 21
+- 🌱 Studying C
+
 
 <p align="left">
     <img height="400cm" src=https://c.tenor.com/v5lxzTqe79AAAAAd/outer-wilds.gif). 
