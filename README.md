@@ -1,7 +1,7 @@
 ### Hi, i am Luan
 
 - :man_astronaut: I have an addiction to Outer Wilds
-- 🔭 i'm currently learning Java, C, Go and python
+- 🔭 I currently want to learn Java, Go and Python
 - :mailbox_with_no_mail: How to reach me: figueredoluan26@gmail.com
 
 <p align="left">
