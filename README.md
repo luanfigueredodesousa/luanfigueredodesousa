@@ -2,7 +2,7 @@
 
 - :man_astronaut: I have an addiction to Outer Wilds
 - 🔭 I currently want to learn Java, Go and Python
-- :mailbox_with_no_mail: How to reach me: figueredoluan26@gmail.com
+- :mailbox_with_no_mail: How to reach me: https://www.linkedin.com/in/luanfigueredo/
 
 <p align="left">
     <img height="400cm" src=https://c.tenor.com/v5lxzTqe79AAAAAd/outer-wilds.gif). 
